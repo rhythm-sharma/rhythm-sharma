@@ -15,8 +15,19 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋
+## Hi there, I'm Rhythm Sharma👋
 
-I like making things, I'm a fairly curious person. 
+I work as a **Frontend Engineer**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, Vue JS, Nuxt JS, NodeJS, MongoDB, Golang, Python, HTML, CSS, JavaScript** Strong engineering professional with a B.Tech in Computer Science Engineering.
+
+---
+
+- 🔭 I’m currently working as **Frontend Engineer @ Fleetx.io**
+- 🌱 I’m currently learning **NodeJS**
+- 👯 I’m looking to collaborate on open source/commercial projects
+- 💬 Ask me about **Web Development**
+- 📫 How to reach me:
+  [Twitter](https://twitter.com/rrhythmsharma), [Stack Overflow](https://stackoverflow.com/users/9371371/rhythm-sharma)
+
+![Rhythm's github stats](https://github-readme-stats.vercel.app/api?username=rrhythmsharma&show_icons=true&hide_border=true&count_private=true&theme=dracula)
 
 🥂 Cheers!
