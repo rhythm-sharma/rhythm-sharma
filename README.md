@@ -21,7 +21,7 @@ I work as a **Frontend Engineer**. I am an Experienced **Fullstack Developer** w
 
 ---
 
-- 🔭 I’m currently working as **Frontend Engineer @ Fleetx.io**
+- 🔭 I’m currently working as **Frontend Engineer @ Fleetx**
 - 🌱 I’m currently learning **NodeJS**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Web Development**
