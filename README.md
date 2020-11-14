@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Rhythm Sharma👋
 
-I work as a **Frontend Engineer**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, Vue JS, Nuxt JS, NodeJS, MongoDB, Golang, Python, HTML, CSS, JavaScript** with strong engineering professional.
+I'm a designer by heart ❤️ and developer by choice 💪.
+
+As a Frontend Engineer 👨‍💻 , my motto is to give the best experience possible to the user—the best experience that the user deserves.
+
+I'm Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, Vue JS, Nuxt JS, NodeJS, MongoDB, Golang, Python, HTML, CSS, JavaScript**.
 
 ---
 
@@ -30,5 +34,3 @@ I work as a **Frontend Engineer**. I am an Experienced **Fullstack Developer** w
 - :art: Portfolio: https://rrhythmsharma.netlify.app/
 
 ![Rhythm's github stats](https://github-readme-stats.vercel.app/api?username=rrhythmsharma&show_icons=true&hide_border=true&count_private=true&theme=dracula)
-
-🥂 Cheers!
