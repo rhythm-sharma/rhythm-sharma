@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Rhythm Sharma👋
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 I'm a designer by heart ❤️ and developer by choice 💪.
 
 As a Frontend Engineer 👨‍💻 , my motto is to give the best experience possible to the user—the best experience that the user deserves.
@@ -25,7 +27,7 @@ I'm Experienced **Fullstack Developer** with a demonstrated history of working i
 
 ---
 
-- 🔭 I’m currently working as **Frontend Engineer @ Fleetx**
+- 🔭 I’m currently working as **SDE @ Fleetx**
 - 🌱 I’m currently learning **NodeJS**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Web Development**
@@ -33,4 +35,3 @@ I'm Experienced **Fullstack Developer** with a demonstrated history of working i
   [LinkedIn](https://www.linkedin.com/in/rrhythmsharma/), [Twitter](https://twitter.com/rrhythmsharma), [Stack Overflow](https://stackoverflow.com/users/9371371/rhythm-sharma)
 - :art: Portfolio: https://rrhythmsharma.netlify.app/
 
-![Rhythm's github stats](https://github-readme-stats.vercel.app/api?username=rrhythmsharma&show_icons=true&hide_border=true&count_private=true&theme=dracula)
