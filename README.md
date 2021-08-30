@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Rhythm Sharma👋
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](https://github.com/rrhythmsharma/rrhythmsharma/blob/main/header_.jpeg)
 
 I'm a designer by heart ❤️ and developer by choice 💪.
 
