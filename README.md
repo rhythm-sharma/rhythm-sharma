@@ -23,15 +23,15 @@ I'm a designer by heart ❤️ and developer by choice 💪.
 
 As a Software Engineer 👨‍💻 , my motto is to give the best experience possible to the user—the best experience that the user deserves.
 
-I'm Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, Vue JS, Nuxt JS, NodeJS, MongoDB, Golang, Python, HTML, CSS, JavaScript**.
+I'm Experienced **Fullstack Developer**. **Skilled in React JS, Vue JS, Nuxt JS, Next JS, NodeJS, MongoDB, Golang, Python, HTML, CSS, JavaScript**.
 
 ---
 
 - 🔭 I’m currently working as **SDE @ Fleetx**
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **ElectronJS**
 - 👯 I’m looking to collaborate on open source/commercial projects
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Software Engineering** and **Anime**
 - 📫 How to reach me:
   [LinkedIn](https://www.linkedin.com/in/rrhythmsharma/), [Twitter](https://twitter.com/rrhythmsharma), [Stack Overflow](https://stackoverflow.com/users/9371371/rhythm-sharma)
-- :art: Portfolio: https://rrhythmsharma.netlify.app/
+- :art: My Personal Website: https://rrhythmsharma.netlify.app/
 
