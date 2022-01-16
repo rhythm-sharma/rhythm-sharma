@@ -28,7 +28,7 @@ I'm Experienced **Fullstack Developer**. **Skilled in React JS, Vue JS, Nuxt JS,
 ---
 
 - 🔭 I’m currently working as **SDE @ Fleetx**
-- 🌱 I’m currently learning **ElectronJS**
+- 🌱 I’m currently learning **Blockchain**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Software Engineering** and **Anime**
 - 📫 How to reach me:
