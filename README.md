@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Rhythm Sharma👋
 
-![](https://github.com/rrhythmsharma/rrhythmsharma/blob/main/header_.jpeg)
+![](https://github.com/rhythm-sharma/rrhythmsharma/blob/main/header_.jpeg)
 
 I'm a designer by heart ❤️ and developer by choice 💪.
 
@@ -32,6 +32,6 @@ I'm Experienced **Fullstack Developer**. **Skilled in React JS, Vue JS, Nuxt JS,
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Software Engineering** and **Anime**
 - 📫 How to reach me:
-  [LinkedIn](https://www.linkedin.com/in/rrhythmsharma/), [Twitter](https://twitter.com/rrhythmsharma), [Stack Overflow](https://stackoverflow.com/users/9371371/rhythm-sharma)
-- :art: My Personal Website: https://rrhythmsharma.netlify.app/
+  [LinkedIn](https://www.linkedin.com/in/rhythm-sharma-engineer/), [Twitter](https://twitter.com/rhythm_sharma_), [Stack Overflow](https://stackoverflow.com/users/9371371/rhythm-sharma)
+- :art: My Personal Website: http://rhythm-sharma.com/
 
