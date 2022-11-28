@@ -27,7 +27,7 @@ I'm Experienced **Fullstack Developer**. **Skilled in React JS, Vue JS, Nuxt JS,
 
 ---
 
-- 🔭 I’m currently working as **SDE at [Zaapi](https://www.zaapi.com/en)**
+- 🔭 I’m currently working as **SDE at [Weekday-works](https://www.weekday.works/)**
 - 🌱 I’m currently learning **Blockchain**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Software Engineering** and **Anime**
